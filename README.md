@@ -1,6 +1,3 @@
-# api-crud-clientes-bootcamp-devsuperior
-Projeto de um CRUD desenvolvido durante o Bootcamp Spring React da DevSuperior.
-
 # Api Rest CRUD Clientes em Java 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/mcarnelos/api-crud-clientes-bootcamp-devsuperior/blob/master/LICENSE) 
 
